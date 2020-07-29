@@ -1,0 +1,38 @@
+2020-06-17 14:40:18,134  INFO [main] Logutil:41 - Exception in DB Connection
+2020-06-17 14:40:18,216  INFO [main] Logutil:41 - Browser is : chrome
+2020-06-17 14:40:19,558  INFO [main] Logutil:17 - ****************************************************************************************
+2020-06-17 14:40:19,567  INFO [main] Logutil:19 - $$$$$$$$$$$$$$$$$$$$$Start As a user, I should be able to change role to Estimator.     $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-06-17 14:40:19,575  INFO [main] Logutil:21 - ****************************************************************************************
+2020-06-17 14:40:19,586  INFO [main] Logutil:41 - Test case Desc for method name updateRoletoEstimatorTest is As a user, I should be able to change role to Estimator.
+2020-06-17 14:40:19,872  INFO [main] Logutil:41 - Start updateTestresultinExcel
+2020-06-17 14:40:20,806  INFO [main] Logutil:41 - End updateTestresultinExcel
+2020-06-17 14:40:20,809  INFO [main] Logutil:41 - Test case Passed
+2020-06-17 14:40:20,826  INFO [main] Logutil:29 - ****************************************************************************************
+2020-06-17 14:40:20,837  INFO [main] Logutil:31 - XXXXXXXXXXXXXXXXXXXXXXX             EndupdateRoletoEstimatorTest             XXXXXXXXXXXXXXXXXXXXXX
+2020-06-17 14:40:20,844  INFO [main] Logutil:33 - ****************************************************************************************
+2020-06-17 14:40:20,989  INFO [main] Logutil:41 - Driver already quit due to testcase fail
+2020-06-17 14:40:21,098  INFO [main] Logutil:41 - Browser is : chrome
+2020-06-17 14:40:21,199  INFO [main] Logutil:17 - ****************************************************************************************
+2020-06-17 14:40:21,200  INFO [main] Logutil:19 - $$$$$$$$$$$$$$$$$$$$$Start As a user, I should be able to change role to Estimator.     $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-06-17 14:40:21,202  INFO [main] Logutil:21 - ****************************************************************************************
+2020-06-17 14:40:21,202  INFO [main] Logutil:41 - Test case Desc for method name updateRoletoEstimatorTest is As a user, I should be able to change role to Estimator.
+2020-06-17 14:40:21,261  INFO [main] Logutil:41 - Start updateTestresultinExcel
+2020-06-17 14:40:21,722  INFO [main] Logutil:41 - End updateTestresultinExcel
+2020-06-17 14:40:21,731  INFO [main] Logutil:41 - Test case Passed
+2020-06-17 14:40:21,736  INFO [main] Logutil:29 - ****************************************************************************************
+2020-06-17 14:40:21,744  INFO [main] Logutil:31 - XXXXXXXXXXXXXXXXXXXXXXX             EndupdateRoletoEstimatorTest             XXXXXXXXXXXXXXXXXXXXXX
+2020-06-17 14:40:21,754  INFO [main] Logutil:33 - ****************************************************************************************
+2020-06-17 14:40:21,956  INFO [main] Logutil:41 - Driver already quit due to testcase fail
+2020-06-17 14:40:21,967  INFO [main] Logutil:41 - Browser is : chrome
+2020-06-17 14:40:22,035  INFO [main] Logutil:17 - ****************************************************************************************
+2020-06-17 14:40:22,036  INFO [main] Logutil:19 - $$$$$$$$$$$$$$$$$$$$$Start As a user, I should be able to change role to Engineer Manager     $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-06-17 14:40:22,037  INFO [main] Logutil:21 - ****************************************************************************************
+2020-06-17 14:40:22,038  INFO [main] Logutil:41 - Test case Desc for method name updateRoletoEngineerManagerTest is As a user, I should be able to change role to Engineer Manager
+2020-06-17 14:40:22,182  INFO [main] Logutil:41 - Start updateTestresultinExcel
+2020-06-17 14:40:22,899  INFO [main] Logutil:41 - End updateTestresultinExcel
+2020-06-17 14:40:22,899  INFO [main] Logutil:41 - Test case Passed
+2020-06-17 14:40:22,900  INFO [main] Logutil:29 - ****************************************************************************************
+2020-06-17 14:40:22,900  INFO [main] Logutil:31 - XXXXXXXXXXXXXXXXXXXXXXX             EndupdateRoletoEngineerManagerTest             XXXXXXXXXXXXXXXXXXXXXX
+2020-06-17 14:40:22,900  INFO [main] Logutil:33 - ****************************************************************************************
+2020-06-17 14:40:23,116  INFO [main] Logutil:41 - Driver already quit due to testcase fail
+2020-06-17 14:40:23,121  INFO [main] Logutil:41 - Exception in DB Connection

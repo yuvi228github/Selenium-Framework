@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="5" verbose="5" name="Framework Testing"
+	guice-stage="DEVELOPMENT">
+
+
+	<test name="CustomerTest Test">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="estimatorTest.CustomerTest"></class>
+
+		</classes>
+	</test>
+
+	<test name="Quote Test">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+
+			<class name="estimatorTest.QuoteTest"></class>
+		</classes>
+	</test>
+
+	<test name="EngineermanagerTest Test">
+		<parameter name="browser" value="Chrome" />
+		<classes>
+			<class name="engineerManagerTest.EngineermanagerTest"></class>
+		</classes>
+	</test>
+
+
+</suite> <!-- Default suite -->
