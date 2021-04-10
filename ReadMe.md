@@ -23,6 +23,7 @@ Execution should Start from POM.XML
 3.> Define Constants like Testdatafile path, filename, sheetname , Columntitle
 4.>	Add require data in Test data.
 	Add require data in Test case file. (To update Test result in excel , need to give column title in Constant.java file)
+	Need to Write Testcase method name in Testcase file under 'Method Name' column.
 	Add require data in properties file. (For URL , Browser )
 5.> Beforesuite, AfterSuite, Before method , After Method declare in ExtentReportTest class.
 6.> Every pageclass should extend Baseclass to fetch driver instance.
